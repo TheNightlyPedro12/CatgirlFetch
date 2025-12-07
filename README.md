@@ -1,2 +1,2 @@
 # CatgirlFetch
-Cheap neofetch copy.
+Cheap neofetch copy. Works only on linux! Writen in python.
