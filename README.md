@@ -1,0 +1,2 @@
+# CatgirlFetch
+Cheap neofetch copy.
